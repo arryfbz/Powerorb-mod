@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "powerorb_mod:power"
+    },
+    "1": {
+      "item": "powerorb_mod:power"
+    },
+    "2": {
+      "item": "powerorb_mod:power"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "powerorb_mod:power_pickaxe",
+    "count": 1
+  }
+}

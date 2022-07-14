@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "powerorb_mod:power_ore"
+    },
+    "title": {
+      "translate": "advancements.almighty.title"
+    },
+    "description": {
+      "translate": "advancements.almighty.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "almighty": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "powerorb_mod:power"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/iron_tools"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "powerorb_mod:power"
+    },
+    "1": {
+      "item": "powerorb_mod:power"
+    },
+    "2": {
+      "item": "powerorb_mod:power"
+    },
+    "3": {
+      "item": "powerorb_mod:power"
+    },
+    "5": {
+      "item": "powerorb_mod:power"
+    }
+  },
+  "result": {
+    "item": "powerorb_mod:power_metal_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "powerorb_mod:power"
+    },
+    "3": {
+      "item": "powerorb_mod:power"
+    },
+    "4": {
+      "item": "powerorb_mod:powerflame"
+    },
+    "5": {
+      "item": "powerorb_mod:power"
+    },
+    "7": {
+      "item": "powerorb_mod:power"
+    }
+  },
+  "result": {
+    "item": "powerorb_mod:corrupt_world",
+    "count": 1
+  }
+}

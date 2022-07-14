@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "powerorb_mod:power"
+    },
+    "2": {
+      "item": "powerorb_mod:power"
+    },
+    "3": {
+      "item": "powerorb_mod:power"
+    },
+    "4": {
+      "item": "powerorb_mod:power"
+    },
+    "5": {
+      "item": "powerorb_mod:power"
+    },
+    "6": {
+      "item": "powerorb_mod:power"
+    },
+    "7": {
+      "item": "powerorb_mod:power"
+    },
+    "8": {
+      "item": "powerorb_mod:power"
+    }
+  },
+  "result": {
+    "item": "powerorb_mod:power_metal_armor_chestplate",
+    "count": 1
+  }
+}

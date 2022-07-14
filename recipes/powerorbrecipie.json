@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "powerorb_mod:power"
+    },
+    "1": {
+      "item": "powerorb_mod:basicpower"
+    },
+    "2": {
+      "item": "powerorb_mod:power"
+    },
+    "3": {
+      "item": "powerorb_mod:basicpower"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "powerorb_mod:basicpower"
+    },
+    "6": {
+      "item": "powerorb_mod:power"
+    },
+    "7": {
+      "item": "powerorb_mod:basicpower"
+    },
+    "8": {
+      "item": "powerorb_mod:power"
+    }
+  },
+  "result": {
+    "item": "powerorb_mod:basicpowerorb",
+    "count": 16
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "powerorb_mod:power_block"
+    }
+  ],
+  "result": {
+    "item": "powerorb_mod:power",
+    "count": 9
+  }
+}

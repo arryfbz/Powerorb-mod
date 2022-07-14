@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "powerorb_mod:power"
+    },
+    "1": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "2": {
+      "item": "powerorb_mod:power"
+    },
+    "3": {
+      "item": "minecraft:nether_wart"
+    },
+    "4": {
+      "item": "minecraft:blaze_powder"
+    },
+    "5": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "6": {
+      "item": "powerorb_mod:power"
+    },
+    "7": {
+      "item": "minecraft:nether_wart"
+    },
+    "8": {
+      "item": "powerorb_mod:power"
+    }
+  },
+  "result": {
+    "item": "powerorb_mod:basicpower",
+    "count": 1
+  }
+}
