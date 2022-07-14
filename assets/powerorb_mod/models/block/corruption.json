@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "powerorb_mod:blocks/curruption",
+    "up": "powerorb_mod:blocks/curruption",
+    "north": "powerorb_mod:blocks/curruption",
+    "east": "powerorb_mod:blocks/curruption",
+    "south": "powerorb_mod:blocks/curruption",
+    "west": "powerorb_mod:blocks/curruption",
+    "particle": "powerorb_mod:blocks/curruption"
+  }
+}

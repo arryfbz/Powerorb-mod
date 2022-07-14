@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "powerorb_mod:items/power_axemodel"
+  }
+}

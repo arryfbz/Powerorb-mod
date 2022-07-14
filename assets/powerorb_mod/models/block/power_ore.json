@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "powerorb_mod:blocks/power_ore",
+    "particle": "powerorb_mod:blocks/power_ore"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "powerorb_mod:block/corrupt_world_portal_ew"
+    },
+    "axis=x": {
+      "model": "powerorb_mod:block/corrupt_world_portal_ns"
+    }
+  }
+}
